@@ -7,9 +7,9 @@
 
 <p align="left"> <a href="https://twitter.com/besimgurpinar" target="blank"><img src="https://img.shields.io/twitter/follow/besimgurpinar?logo=twitter&style=for-the-badge" alt="besimgurpinar" /></a> </p>
 
-- 🌱 I’m currently learning **HTML5,CSS3,JS,VUE,REACT,NODEJS**
+- 🌱 I’m currently learning **HTML5,CSS3,JS,VUE,REACT,NODEJS.PYTHON, SQL, MACHINE LEARNING**
 
-- 🤝 I’m looking for help with **JS**
+- 🤝 I’m looking for help with **DATA SCIENCE**
 
 - 📫 How to reach me **besimgurpinarr@gmail.com**
 
